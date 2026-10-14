@@ -3,12 +3,12 @@
 I'm a Computer Science graduate currently pursuing an MSc
 in Cybersecurity at Politecnico di Torino.
 
-I'm interested in cybersecurity, system security, programming,
+I'm interested in cybersecurity, cryptography, system security, programming,
 and the application of computer science to security problems.
 
 ## Areas of Interest
 
-- Cybersecurity and system security
+- Cybersecurity and cryptography
 - Malware analysis and threat modelling
 - Python and software development
 - Machine Learning
