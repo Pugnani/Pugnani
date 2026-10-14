@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi, I'm Stefano 👋
 
-<!--
-**Pugnani/Pugnani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science graduate currently pursuing an MSc
+in Cybersecurity at Politecnico di Torino.
 
-Here are some ideas to get you started:
+I'm interested in cybersecurity, system security, programming,
+and the application of computer science to security problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Areas of Interest
+
+- Cybersecurity and system security
+- Malware analysis and threat modelling
+- Python and software development
+- Machine Learning
+- Database design and management
+
+## Selected Projects
+
+- [Malware Ontology](https://github.com/Pugnani/Malware-ontology-project)
+  - OWL ontology for malware classification and post-attack analysis.
+
+- [Formula 1 Database](https://github.com/Pugnani/project-databse-f1)
+  - Relational database design with SQL, Java, and JDBC.
+
+- [Football Players Value and Wage Prediction](https://github.com/Pugnani/Value-and-Wage-Prediction-Football-Players)
+  - Machine learning models for predicting football players' market value and wages.
+
+## Technologies
+
+Python · Java · SQL · Linux · Git · OWL · Protégé
+
+## Contact
+
+Feel free to explore my repositories or get in touch.
