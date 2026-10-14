@@ -33,4 +33,4 @@ Python · Java · SQL · Linux · Git · OWL · Protégé
 
 ## Contact
 
-Feel free to explore my repositories or get in touch.
+Feel free to explore my repositories or get in touch via email: pugnani1906@gmail.com
