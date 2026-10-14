@@ -18,6 +18,8 @@ and the application of computer science to security problems.
 
 - [Malware Ontology](https://github.com/Pugnani/Malware-ontology-project)
   - OWL ontology for malware classification and post-attack analysis.
+- [DSL Compiler}()
+  -A compiler project focused on language processing and the implementation of a domain-specific language.
 
 - [Formula 1 Database](https://github.com/Pugnani/project-databse-f1)
   - Relational database design with SQL, Java, and JDBC.
